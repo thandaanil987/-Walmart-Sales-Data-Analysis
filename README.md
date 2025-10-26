@@ -7,11 +7,11 @@ The main objective is to explore sales performance, seasonal patterns, and facto
 
 **⚙️ Tech Stack**
 
-Python
-NumPy
-Pandas
-Matplotlib
-Seaborn
+Python,
+NumPy,
+Pandas,
+Matplotlib,
+Seaborn.
 
 **🧩 Features**
 
